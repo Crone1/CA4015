@@ -1,4 +1,4 @@
-Steps to view our Jupyter Book
+# Steps to view our Jupyter Book
 
 1 - Extract CA4015_Assignment_1.zip to a local folder
 2 - Within the extracted folder, navigate to the _build folder
