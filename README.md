@@ -6,5 +6,5 @@ After these participants were finished, their decisions were modeled and the par
 We have created a Jupyter Book to make it easy to view our documentation and our code for this project, the steps to access this are as follows:
  - Extract *'CA4015_Assignment_1.zip'* to a local folder,
  - Within the extracted folder, navigate to the *'_build folder'*,
- - Within the _build folder, navigate to the *'_html folder'*,
+ - Within the *'_build folder'*, navigate to the *'_html folder'*,
  - Double Click on *'index.html'* to launch our jupyter book in your default browser.
